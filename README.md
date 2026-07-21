@@ -187,4 +187,4 @@ chatbot/
 
 ## Support
 
-For integration help or customisation, contact the Masheleng team.
+For integration help or customisation, contact Motswana Intelligence Development Team.
